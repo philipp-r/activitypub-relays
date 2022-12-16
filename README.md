@@ -16,7 +16,7 @@ If you want to add a relay to Mastodon or Pleroma:
 ### ✅ active relays
 
 ```
-https://en.relay.friendi.ca/inbox | Read [the rules](https://en.relay.friendi.ca/) first.
+https://en.relay.friendi.ca/inbox | Read the rules before joining: https://en.relay.friendi.ca/ 
 https://relay.an.exchange/inbox
 https://relay.bastodon.org/inbox
 https://relay.beckmeyer.us/inbox
