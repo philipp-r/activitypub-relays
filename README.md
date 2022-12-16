@@ -36,6 +36,11 @@ https://relay.wig.gl/inbox
 https://relay.dog/inbox
 https://relay.darmstadt.social/inbox
 https://relay.douzepoints.social/inbox
+https://relay.bastodon.org/inbox
+https://relay.an.exchange/inbox
+https://relay.techisland.social/inbox
+https://relay.kanoa.de/inbox
+
 ```
 
 
@@ -54,6 +59,7 @@ https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
 https://relay.bau-ha.us/inbox | thuringia + middle/east germany / non-profit / infosec contact _mt@social.bau-ha.us prior to joining.
 https://relay.neovibe.app/inbox | Must be approved by NeoVibe admin. For faster review of your instance, please send a Direct Messsage to @neovibe@neovibe.app
 https://relay.chocoflan.net/inbox | Only for primarily Spanish-language instances.
+https://relay.gay/inbox | relay for connecting queer communities. Contact @effy@effy.space prior to joining.
 ```
 
 
