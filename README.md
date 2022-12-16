@@ -11,6 +11,7 @@ if you want to add a relay to your:
 ### Pleroma Instance
 - Copy the URL & replace */inbox* with */actor*
 
+
 ## ✅ active working relays
 
 ```
@@ -37,6 +38,7 @@ https://relay.darmstadt.social/inbox
 https://relay.douzepoints.social/inbox
 ```
 
+
 ## ✅🚫 relays that are restricted with allowlists
 
 ```
@@ -54,13 +56,6 @@ https://relay.neovibe.app/inbox | Must be approved by NeoVibe admin. For faster 
 https://relay.chocoflan.net/inbox | Only for primarily Spanish-language instances.
 ```
 
-## ❔ relays that maybe? work
-
-```
-https://relay.chemnitz.social/inbox | Connection times out
-https://relay.kretschmann.social/inbox | Redirects to https://kretschmann.social/
-https://relay.glauca.space/inbox | Slow/unresponsive
-```
 
 ## ❌ relays that DON'T work
 
@@ -74,13 +69,16 @@ https://relay.1d4.us/inbox
 https://relay.blob.cat/inbox | 502 Bad Gateway
 https://relay.cetialphafive.com/inbox
 https://relay.chaos.is/inbox | 404 Not Found
+https://relay.chemnitz.social/inbox | Connection times out
 https://relay.civiq.social/inbox
 https://relay.cyber-tribal.com/inbox
 https://relay.fedi.network/inbox
 https://relay.fedinoc.de/inbox | 404 Not Found
 https://relay.gidikroon.eu/inbox | 502 Bad Gatewayy
+https://relay.glauca.space/inbox | unresponsive
 https://relay.kamp.site/inbox
 https://relay.kemo.one/inbox | 525 No Reason Phrase (Cloudflare SSL handshake failed)
+https://relay.kretschmann.social/inbox | Redirects 
 https://relay.masto.tech/inbox | 404 Not Found
 https://relay.mastodon.eric.ovh/inbox
 https://relay.mastodon.fun/inbox | 404 Not Found
@@ -115,8 +113,3 @@ https://relay.phreedom.club/inbox | DNS Record doesn't exist
 https://federation.stream/inbox | DNS Record doesn't exist
 https://aprelay.thebackupbox.net/inbox | Bad certificate; Common name invalid
 ```
-
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/brodi1/activitypub-relays.svg)](https://starchart.cc/brodi1/activitypub-relays)
