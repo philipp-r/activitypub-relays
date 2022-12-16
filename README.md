@@ -2,19 +2,21 @@
 
 If you want to add a relay to Mastodon or Pleroma:
 
-### Mastodon instance
+#### Mastodon instance
 - Navigate to /admin/relays
 - Click "Add New Relay"
 - Paste one of the urls below *as is*
 - Click "Save and Enable"
 
-### Pleroma Instance
+#### Pleroma Instance
 - Copy the URL & replace */inbox* with */actor*
 
+## Relays
 
-## ✅ active relays
+### ✅ active relays
 
 ```
+https://en.relay.friendi.ca/inbox | Read [the rules](https://en.relay.friendi.ca/) first.
 https://relay.an.exchange/inbox
 https://relay.bastodon.org/inbox
 https://relay.beckmeyer.us/inbox
@@ -36,33 +38,32 @@ https://relay.wig.gl/inbox
 ```
 
 
-## ✅ active relays  with allowlists
+### ✅ active relays - join on request
 
 ```
-https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
+https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social to join.
 https://relay.asonix.dog/inbox | Furry and adjacent servers. Contact @asonix@masto.asonix.dog to join.
-https://relay.bau-ha.us/inbox | Instances around eastern Germany. Contact _mt@social.bau-ha.us prior to joining.
+https://relay.bau-ha.us/inbox | Instances around eastern Germany. Contact _mt@social.bau-ha.us to join.
 https://relay.breakblocks.social/inbox | Only for instances primarily based around Minecraft.
 https://relay.chocoflan.net/inbox | Only for primarily Spanish-language instances.
-https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
-https://relay.foxyhole.io/inbox | Only Italian and Inglese languages / non-profit. Contact @redhunt07@www.foxyhole.io prior to joining.
-https://relay.gay/inbox | For queer communities. Contact @effy@effy.space prior to joining.
+https://relay.dariox.club/inbox | Contact @kate@dariox.club to join.
+https://relay.foxyhole.io/inbox | Only Italian and Inglese languages / non-profit. Contact @redhunt07@www.foxyhole.io to join.
+https://relay.gay/inbox | For queer communities. Contact @effy@effy.space to join.
 https://relay.mastodon.kr/inbox | Korean relay.
-https://relay.neovibe.app/inbox | Must be approved by NeoVibe admin. Contact @neovibe@neovibe.app. 
+https://relay.neovibe.app/inbox | Contact @neovibe@neovibe.app to join. 
 https://relay.techisland.social/inbox | Contact @sven@techisland.social to join.
 https://streamb0x.de/inbox | Contact @b3nscher@swapping.space to join.
 ```
 
 
-## 🚫 active relays  but new joins are not accepted
+### 🚫 active relays - new joins are not accepted
 
 ```
-https://en.relay.friendi.ca/inbox | This relay is currently full, new joins are not accepted.
 https://open.relay.pfalz.social/inbox | This relay is currently full, new joins are not accepted.
 ```
 
 
-## ❌ relays that DON'T work
+### ❌ relays that DON'T work
 
 ```
 https://ap-relay.herokuapp.com/inbox | Offline for maintenance
@@ -124,3 +125,8 @@ https://relay2.mastodon.ml/inbox | 502 Bad Gateway
 https://rrfarmbot.appspot.com/inbox | 500 Server Error
 https://vtlay.polyohm.net/inbox
 ```
+
+## Further resources
+
+* [Curated list of developer resources related to relays](https://codeberg.org/fediverse/delightful-activitypub-development/#user-content-relays) 
+
