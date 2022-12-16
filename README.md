@@ -12,48 +12,53 @@ If you want to add a relay to Mastodon or Pleroma:
 - Copy the URL & replace */inbox* with */actor*
 
 
-## ✅ active working relays
+## ✅ active relays
 
 ```
 https://relay.an.exchange/inbox
 https://relay.bastodon.org/inbox
 https://relay.beckmeyer.us/inbox
-https://relay.darmstadt.social/inbox
+https://relay.darmstadt.social/inbox | Rhine-Main region and Hesse, Germany.
 https://relay.douzepoints.social/inbox
-https://relay.fedi.agency/inbox
 https://relay.fedinet.social/inbox
 https://relay.flm9.me/inbox
 https://relay.froth.zone/inbox
 https://relay.gruenehoelle.nl/inbox
 https://relay.homunyan.com/inbox
 https://relay.intahnet.co.uk/inbox
-https://relay.kanoa.de/inbox
+https://relay.kanoa.de/inbox | German speaking.
 https://relay.libranet.de/inbox
 https://relay.masto.la/inbox
 https://relay.minecloud.ro/inbox
 https://relay.pissdichal.de/inbox
-https://relay.techisland.social/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.wig.gl/inbox
 ```
 
 
-## ✅🚫 relays that are restricted with allowlists
+## ✅ active relays  with allowlists
 
 ```
 https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
-https://en.relay.friendi.ca/inbox | This relay is currently full, new joins are not accepted.
-https://open.relay.pfalz.social/inbox | This relay is currently full, new joins are not accepted.
-https://relay.asonix.dog/inbox
-https://relay.bau-ha.us/inbox | Thuringia + middle/east germany / non-profit / infosec. Contact _mt@social.bau-ha.us prior to joining.
+https://relay.asonix.dog/inbox | Furry and adjacent servers. Contact @asonix@masto.asonix.dog to join.
+https://relay.bau-ha.us/inbox | Instances around eastern Germany. Contact _mt@social.bau-ha.us prior to joining.
 https://relay.breakblocks.social/inbox | Only for instances primarily based around Minecraft.
 https://relay.chocoflan.net/inbox | Only for primarily Spanish-language instances.
 https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
 https://relay.foxyhole.io/inbox | Only Italian and Inglese languages / non-profit. Contact @redhunt07@www.foxyhole.io prior to joining.
 https://relay.gay/inbox | For queer communities. Contact @effy@effy.space prior to joining.
-https://relay.mastodon.kr/inbox
+https://relay.mastodon.kr/inbox | Korean relay.
 https://relay.neovibe.app/inbox | Must be approved by NeoVibe admin. Contact @neovibe@neovibe.app. 
-https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay.
+https://relay.techisland.social/inbox | Contact @sven@techisland.social to join.
+https://streamb0x.de/inbox | Contact @b3nscher@swapping.space to join.
+```
+
+
+## 🚫 active relays  but new joins are not accepted
+
+```
+https://en.relay.friendi.ca/inbox | This relay is currently full, new joins are not accepted.
+https://open.relay.pfalz.social/inbox | This relay is currently full, new joins are not accepted.
 ```
 
 
@@ -80,6 +85,7 @@ https://relay.civiq.social/inbox
 https://relay.cyber-tribal.com/inbox
 https://relay.dog/inbox
 https://relay.dresden.network/inbox | 502 Bad Gateway
+https://relay.fedi.agency/inbox | 502 Bad Gateway
 https://relay.fedi.network/inbox
 https://relay.fedibird.com/inbox | 404
 https://relay.fedinoc.de/inbox | 404 Not Found
