@@ -35,6 +35,7 @@ https://relay.minecloud.ro/inbox
 https://relay.pissdichal.de/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.wig.gl/inbox
+https://relay1.mastodon.ml/inbox
 ```
 
 
@@ -120,7 +121,6 @@ https://relay.stacktonic.com.au/inbox
 https://relay.travnewmatic.com/inbox | 404 Not Found
 https://relay.uggs.io/inbox | Bad certificate
 https://relay.wagnersnetz.de/inbox | 502 Bad Gateway
-https://relay1.mastodon.ml/inbox | 502 Bad Gateway
 https://relay2.mastodon.ml/inbox | 502 Bad Gateway
 https://rrfarmbot.appspot.com/inbox | 500 Server Error
 https://vtlay.polyohm.net/inbox
